@@ -1,0 +1,2 @@
+1) Compare placebo effect with another placebo, but patient will know that they are in the placebo group.
+2) Compare worst case from 1st experiment with "no bother" group. That group will have less interaction with the research group.
